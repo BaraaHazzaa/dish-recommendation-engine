@@ -45,14 +45,14 @@ A machine learning-powered dish recommendation system that combines collaborativ
     python run.py
 
 
-Technologies:
+#Technologies:
 
 Python, Pandas, NumPy, Scikit-learn, SQLAlchemy
 Flask (API routes)
 APScheduler (periodic model retraining)
 SQLite/PostgreSQL (database)
 
-Usage:
+#Usage:
 
 Access recommendations via API endpoints in routes.py.
 Update preferences or ratings to trigger model retraining.
