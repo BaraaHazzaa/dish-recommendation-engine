@@ -1,0 +1,36 @@
+CategoryID,Name
+1,Main Course
+2,Appetizer
+3,Salad
+4,Soup
+5,Dessert
+6,Breakfast
+7,Sandwich
+8,Dinner
+9,Lunch
+10,Brunch
+11,Snacks
+12,American
+13,Italian
+14,Mexican
+15,French
+16,Indian
+17,Thai
+18,Vegetarian
+19,Vegan
+20,Gluten-Free
+21,Nut Allergy
+22,Lactose Intolerant
+23,Keto
+24,Paleo
+25,Low Sodium
+26,Sweet
+27,Savory
+28,Bitter
+29,Crispy/Crunchy
+30,Creamy
+31,Moist/Juicy
+32,Spicy
+33,Mild
+34,Medium
+35,Hot
